@@ -1,0 +1,19 @@
+{
+  "project": "SatoshiShield (Aegis x402)",
+  "builder": "Alejandro Gonz\u00e1lez Ortiz (Ecos de Satoshi)",
+  "website": "https://ecosdesatoshi.com",
+  "category": [
+    "Public Goods",
+    "Web3 Security",
+    "x402 Agent Infrastructure",
+    "Anti-Phishing"
+  ],
+  "networks": [
+    "Base Mainnet (eip155:8453)",
+    "Ethereum Mainnet (eip155:1)",
+    "Arbitrum One (eip155:42161)"
+  ],
+  "receivingAddress": "0x9e041bcb426026bd055ff590e63416b5d8271616",
+  "x402Endpoint": "/api/x402-audit",
+  "description": "Zero-database, open-source security scanner for smart contracts (Base/EVM) and web domains (DNS/SPF/DMARC/Headers), featuring native HTTP 402 (x402) USDC micropayments for AI agents."
+}
